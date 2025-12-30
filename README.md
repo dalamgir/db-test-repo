@@ -106,3 +106,5 @@ If you want, I can:
 - scaffold migration and seed files,
 - create a docker-compose.yml tailored to Postgres or MySQL,
 or commit the README to the repository for you. Which would you like next?
+
+Added a module.py
