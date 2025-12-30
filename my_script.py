@@ -1,1 +1,1 @@
-print('hello from my script')
+print('I changed this thingy')
